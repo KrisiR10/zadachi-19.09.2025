@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //zadacha 4
             Console.Write("Vuvedete marka kola: ");
             string model = Console.ReadLine();
 
@@ -24,3 +25,4 @@ namespace ConsoleApp1
         }
     }
 }
+
